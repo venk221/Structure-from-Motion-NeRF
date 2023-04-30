@@ -6,7 +6,7 @@ SfM can be said as a process of predicting a 3D structure from a set of overlapp
 Run `python3 main.py` in the `./Code/SfM` folder.
 
 This will result in all resulting images given in the report in the `./Code/SfM` folder.
-There is also SfM.ipynb file which was initially written and tested on present in the folder.
+There is also `SfM.ipynb` file which was initially written and tested on present in the folder.
 
 NeRF
 
