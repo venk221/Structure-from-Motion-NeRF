@@ -1,5 +1,5 @@
-Phase 1
-
+Structure from Motion:
+SfM can be said as a process of predicting a 3D structure from a set of overlapping 2D images. This project actually imitates a former Microsoft application called "Photsynth". A similar web application performing sfm is VisualSfm (http://ccwu.me/vsfm/). A few years ago, Agarwal et. al published Building Rome in a Day in which they reconstructed the entire city just by using a large collection of photos from the Internet.(https://grail.cs.washington.edu/rome/rome_paper.pdf)
 
 1) To run the Structure from Motion script:
 
@@ -7,7 +7,7 @@ Run `python3 main.py` in the `./Code/SfM` folder.
 
 This will result in all resulting images given in the report in the `./Code/SfM` folder.
 
-Phase 2 : NeRF
+NeRF
 
 Go to the `./Code/Nerf` folder
 Run `wget http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ECCV20/nerf/tiny_nerf_data.npz` to get the data file used for NeRF training.
