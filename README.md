@@ -37,7 +37,7 @@ Disambiguated Best World Points:
 
 Non-Linear Triangulation vs Linear Triangulation:
 <p align="center">
-  <img width="400" height="300" src="https://user-images.githubusercontent.com/55713396/217653634-1ecd1f9f-574d-4ba1-8769-ddb310030e94.png"> 
+  <img width="400" height="300" src="https://github.com/venk221/Structure-from-Motion-NeRF/assets/46212911/3c4fcbf8-935d-417d-ad10-551156a832e0"> 
 
 PnP and Bundle Adjustment: 
 <p align="center">
