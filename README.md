@@ -25,20 +25,23 @@ RANSAC
   <img width="600" height="300" src="https://user-images.githubusercontent.com/55713396/217652416-38f74c01-9a02-4506-80f9-c58c6279b582.png">
 </p>
 
-
 4 Sets of World Points
 <p align="center">
   <img width="400" height="300" src="https://user-images.githubusercontent.com/55713396/217653636-825f3ac8-776e-4d50-a434-4729dc94af50.png">
 </p>
 
-Disambiguated Best World Points
+Disambiguated Best World Points:
 <p align="center">
   <img width="400" height="300" src="https://user-images.githubusercontent.com/55713396/217653635-be75763f-e1e8-4bc0-891a-6a112596b985.png">
 </p>
 
-Non-Linear Triangulation vs Linear Triangulation
+Non-Linear Triangulation vs Linear Triangulation:
 <p align="center">
-  <img width="400" height="300" src="https://user-images.githubusercontent.com/55713396/217653634-1ecd1f9f-574d-4ba1-8769-ddb310030e94.png">
+  <img width="400" height="300" src="https://user-images.githubusercontent.com/55713396/217653634-1ecd1f9f-574d-4ba1-8769-ddb310030e94.png"> 
+
+PnP and Bundle Adjustment: 
+<p align="center">
+  <img width="400" height="300" src="![output](https://github.com/venk221/Structure-from-Motion-NeRF/assets/46212911/6d3c7e05-ced7-49b0-a1c0-bfd8ce98800e)">
 </p>
 
 
