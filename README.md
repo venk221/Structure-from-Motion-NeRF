@@ -41,7 +41,7 @@ Non-Linear Triangulation vs Linear Triangulation:
 
 PnP and Bundle Adjustment: 
 <p align="center">
-  <img width="400" height="300" src="![output](https://github.com/venk221/Structure-from-Motion-NeRF/assets/46212911/6d3c7e05-ced7-49b0-a1c0-bfd8ce98800e)">
+  <img width="400" height="300" src="https://github.com/venk221/Structure-from-Motion-NeRF/assets/46212911/6d3c7e05-ced7-49b0-a1c0-bfd8ce98800e">
 </p>
 
 
